@@ -53,7 +53,6 @@ const bushra = {
 
 AI-powered mock interview platform generating role-specific technical & behavioral questions with real-time evaluation feedback, cutting manual interview-prep review to zero. Published in IRJMETS (Vol 07, Issue 04, 2025).
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bush07&repo=mockmate-ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="MockMate AI"/>
 
 | Layer          | Technology                                  |
 |----------------|----------------------------------------------|
@@ -71,7 +70,6 @@ AI-powered mock interview platform generating role-specific technical & behavior
 
 Role-based recipe management platform for admin/member roles with session-based auth (UUID tokens), rate-limiting (5 failed attempts → 15-min lockout), and CAPTCHA to block brute-force logins. Includes an admin approval workflow, search, filters, favorites, and pagination across 8 cuisine categories.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bush07&repo=recipe-book&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Recipe Book"/>
 
 | Layer          | Technology                                  |
 |----------------|----------------------------------------------|
@@ -87,8 +85,6 @@ Role-based recipe management platform for admin/member roles with session-based 
 #### FitGen AI — AI Fitness Trainer & Workout Generator
 
 AI-powered fitness platform generating multi-day workout & diet plans tailored to user body stats and goals via LLM prompting. Features webcam-based pose detection for live rep counting and posture correction, plus gamified streak/XP tracking and a before/after progress-photo slider.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bush07&repo=fitgen-ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="FitGen AI"/>
 
 | Layer          | Technology                                  |
 |----------------|----------------------------------------------|
