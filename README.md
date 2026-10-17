@@ -114,30 +114,9 @@ AI-powered fitness platform generating multi-day workout & diet plans tailored t
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bush07&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush07&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="30%"/>
 
-<img src="https://streak-stats.demolab.com?user=bush07&theme=nord&border=7dd3fc&background=1a1b27&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="66%"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bush07&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bush07&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
 
 ### 🤝 Connect With Me
 
