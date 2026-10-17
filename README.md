@@ -9,9 +9,6 @@
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Software%20Engineer-7dd3fc?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=bush07&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/bush07?label=FOLLOWERS&style=for-the-badge&color=7dd3fc)
-
 </div>
 
 ---
